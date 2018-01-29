@@ -1,0 +1,1 @@
+Some practises of leetcode
